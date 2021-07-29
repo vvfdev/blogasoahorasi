@@ -1,11 +1,6 @@
-body{
-    background-color:black;
-}
-h2{
-    color: red;
-}
-
-p{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: blue;
+.container{
+    margin: 50px auto;
+    width: 70%;
+    text-align: center;
+    border: 5px solid black;
 }
